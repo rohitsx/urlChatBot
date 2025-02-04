@@ -1,0 +1,6 @@
+Groq
+python-dotenv
+flask
+pinecone
+BeautifulSoup4
+langchain-text-splitters

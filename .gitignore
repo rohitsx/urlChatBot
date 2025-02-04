@@ -1,0 +1,42 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+Pipfile
+Pipfile.lock
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Secrets and configurations
+.env
+*.pem
+*.key
+
+# VS Code settings
+.vscode/
+.settings/
+
+# PyCharm settings
+.idea/
+
+# MacOS and Linux system files
+.DS_Store
+*.swp
